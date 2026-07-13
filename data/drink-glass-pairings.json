@@ -1,0 +1,137 @@
+{
+  "cocktails": [
+    {
+      "drink": "Old Fashioned",
+      "primary_glass": "Rocks",
+      "alternatives": [],
+      "note": "Large ice cube"
+    },
+    {
+      "drink": "Martini",
+      "primary_glass": "Martini or Coupe",
+      "alternatives": [
+        "Nick & Nora"
+      ],
+      "note": "Chilled, no ice"
+    },
+    {
+      "drink": "Margarita",
+      "primary_glass": "Rocks",
+      "alternatives": [
+        "Coupe",
+        "Margarita glass"
+      ],
+      "note": "Salt rim"
+    },
+    {
+      "drink": "Negroni",
+      "primary_glass": "Rocks",
+      "alternatives": [],
+      "note": "Large ice cube"
+    },
+    {
+      "drink": "Daiquiri",
+      "primary_glass": "Coupe",
+      "alternatives": [
+        "Martini"
+      ],
+      "note": "No ice, chilled"
+    },
+    {
+      "drink": "Manhattan",
+      "primary_glass": "Coupe",
+      "alternatives": [
+        "Martini",
+        "Nick & Nora"
+      ],
+      "note": "Chilled, no ice"
+    },
+    {
+      "drink": "Whiskey Sour",
+      "primary_glass": "Rocks",
+      "alternatives": [],
+      "note": "Over ice"
+    },
+    {
+      "drink": "Mojito",
+      "primary_glass": "Highball",
+      "alternatives": [],
+      "note": "Crushed ice"
+    },
+    {
+      "drink": "Gin and Tonic",
+      "primary_glass": "Highball",
+      "alternatives": [
+        "Copaballoon (large wine glass)"
+      ],
+      "note": "Lots of ice"
+    },
+    {
+      "drink": "Aperol Spritz",
+      "primary_glass": "Wine glass",
+      "alternatives": [],
+      "note": "Built over ice"
+    },
+    {
+      "drink": "Moscow Mule",
+      "primary_glass": "Copper Mug",
+      "alternatives": [
+        "Highball"
+      ],
+      "note": "Traditionally copper"
+    },
+    {
+      "drink": "Sazerac",
+      "primary_glass": "Rocks",
+      "alternatives": [],
+      "note": "Absinthe-rinsed"
+    },
+    {
+      "drink": "French 75",
+      "primary_glass": "Flute",
+      "alternatives": [
+        "Coupe"
+      ],
+      "note": "Sparkling"
+    }
+  ],
+  "spirits": [
+    {
+      "drink": "Whiskey (neat)",
+      "primary_glass": "Glencairn or Rocks",
+      "alternatives": [
+        "Copita",
+        "Snifter"
+      ],
+      "note": "Tasting vs casual"
+    },
+    {
+      "drink": "Whiskey (on rocks)",
+      "primary_glass": "Rocks",
+      "alternatives": [],
+      "note": "Large cube preferred"
+    },
+    {
+      "drink": "Cognac/Brandy",
+      "primary_glass": "Snifter",
+      "alternatives": [],
+      "note": "Cup in hand to warm"
+    },
+    {
+      "drink": "Tequila (sipping)",
+      "primary_glass": "Rocks",
+      "alternatives": [
+        "Glencairn"
+      ],
+      "note": "Reposado and anejo"
+    },
+    {
+      "drink": "Rum (sipping)",
+      "primary_glass": "Snifter",
+      "alternatives": [
+        "Glencairn"
+      ],
+      "note": "Aged rums"
+    }
+  ]
+}
