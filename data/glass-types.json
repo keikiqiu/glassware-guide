@@ -1,0 +1,220 @@
+[
+  {
+    "name": "Rocks Glass",
+    "aka": [
+      "Old Fashioned",
+      "Lowball",
+      "Tumbler"
+    ],
+    "capacity_oz": "6-10",
+    "capacity_ml": "180-295",
+    "shape": "Short, wide, heavy base",
+    "uses": [
+      "Old Fashioned",
+      "Negroni",
+      "Whiskey Sour",
+      "Sazerac",
+      "Spirit on the rocks"
+    ],
+    "tips": "Choose heavy base for stability"
+  },
+  {
+    "name": "Highball Glass",
+    "aka": [
+      "Tall Glass"
+    ],
+    "capacity_oz": "10-14",
+    "capacity_ml": "295-415",
+    "shape": "Tall, straight sides",
+    "uses": [
+      "Gin and Tonic",
+      "Rum and Coke",
+      "Mojito",
+      "Paloma",
+      "Tom Collins"
+    ],
+    "tips": "Most versatile glass for mixed drinks"
+  },
+  {
+    "name": "Collins Glass",
+    "aka": [
+      "Zombie Glass"
+    ],
+    "capacity_oz": "12-16",
+    "capacity_ml": "355-475",
+    "shape": "Taller than highball, narrower",
+    "uses": [
+      "Tom Collins",
+      "Zombie",
+      "Singapore Sling"
+    ],
+    "tips": "For very tall drinks"
+  },
+  {
+    "name": "Coupe",
+    "aka": [
+      "Champagne Coupe (historic)"
+    ],
+    "capacity_oz": "4.5-7",
+    "capacity_ml": "135-205",
+    "shape": "Shallow, wide bowl on stem",
+    "uses": [
+      "Daiquiri",
+      "Martini",
+      "Manhattan",
+      "Cosmopolitan",
+      "Sidecar"
+    ],
+    "tips": "Most versatile cocktail glass"
+  },
+  {
+    "name": "Martini Glass",
+    "aka": [
+      "Cocktail Glass"
+    ],
+    "capacity_oz": "4-8",
+    "capacity_ml": "120-240",
+    "shape": "V-shaped bowl on stem",
+    "uses": [
+      "Martini",
+      "Cosmopolitan",
+      "Daiquiri (alternative)"
+    ],
+    "tips": "Chill before serving"
+  },
+  {
+    "name": "Flute",
+    "aka": [
+      "Champagne Flute"
+    ],
+    "capacity_oz": "6-8",
+    "capacity_ml": "180-240",
+    "shape": "Tall, narrow bowl on stem",
+    "uses": [
+      "Champagne",
+      "Sparkling wine",
+      "French 75"
+    ],
+    "tips": "Preserves carbonation"
+  },
+  {
+    "name": "Snifter",
+    "aka": [
+      "Brandy Snifter",
+      "Cognac Glass"
+    ],
+    "capacity_oz": "6-25",
+    "capacity_ml": "180-740",
+    "shape": "Wide bowl, narrow rim, short stem",
+    "uses": [
+      "Cognac",
+      "Brandy",
+      "Cask-strength whiskey",
+      "Aged spirits"
+    ],
+    "tips": "Cup in hand to warm slightly"
+  },
+  {
+    "name": "Glencairn",
+    "aka": [
+      "Whisky Tasting Glass"
+    ],
+    "capacity_oz": "5-6",
+    "capacity_ml": "150-180",
+    "shape": "Tulip shape, thick base",
+    "uses": [
+      "Whiskey tasting",
+      "Single malt evaluation"
+    ],
+    "tips": "Best for serious tasting"
+  },
+  {
+    "name": "Wine Glass (Red)",
+    "aka": [
+      "Bordeaux Glass",
+      "Burgundy Glass"
+    ],
+    "capacity_oz": "14-22",
+    "capacity_ml": "415-650",
+    "shape": "Large bowl, wide opening",
+    "uses": [
+      "Red wine",
+      "Aperol Spritz"
+    ],
+    "tips": "Fill no more than 1/3"
+  },
+  {
+    "name": "Wine Glass (White)",
+    "aka": [],
+    "capacity_oz": "10-14",
+    "capacity_ml": "295-415",
+    "shape": "Smaller bowl than red, narrower",
+    "uses": [
+      "White wine",
+      "Rose"
+    ],
+    "tips": "Helps maintain temperature"
+  },
+  {
+    "name": "Shot Glass",
+    "aka": [
+      "Shooter"
+    ],
+    "capacity_oz": "1-1.5",
+    "capacity_ml": "30-45",
+    "shape": "Small, thick",
+    "uses": [
+      "Shots",
+      "Measuring"
+    ],
+    "tips": "Verify capacity before using as measure"
+  },
+  {
+    "name": "Margarita Glass",
+    "aka": [],
+    "capacity_oz": "8-12",
+    "capacity_ml": "240-355",
+    "shape": "Double bowl on stem",
+    "uses": [
+      "Margaritas (traditional)"
+    ],
+    "tips": "Rocks glass works just as well"
+  },
+  {
+    "name": "Hurricane Glass",
+    "aka": [],
+    "capacity_oz": "15-20",
+    "capacity_ml": "445-590",
+    "shape": "Curved, hurricane-lamp shape",
+    "uses": [
+      "Hurricane",
+      "Tiki drinks"
+    ],
+    "tips": "For tropical, fruity drinks"
+  },
+  {
+    "name": "Nick & Nora",
+    "aka": [],
+    "capacity_oz": "5-7",
+    "capacity_ml": "150-205",
+    "shape": "Small, rounded bowl on stem",
+    "uses": [
+      "Classic cocktails",
+      "Pre-Prohibition style drinks"
+    ],
+    "tips": "Elegant vintage alternative to coupe"
+  },
+  {
+    "name": "Copper Mug",
+    "aka": [
+      "Moscow Mule Mug"
+    ],
+    "capacity_oz": "12-16",
+    "capacity_ml": "355-475",
+    "shape": "Copper mug with handle",
+    "uses": [
+      "Moscow Mule"
+    ],
+    "tips": "Copper keeps drink cold"
+  }
+]
